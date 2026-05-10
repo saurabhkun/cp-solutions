@@ -9,9 +9,9 @@ def count_files(folder):
                     count += 1
     return count
 
-leetcode = count_files("leetcode")
-gfg = count_files("gfg")
-cf = count_files("codeforces")
+leetcode = count_files("LeetCode")
+gfg = count_files("GFG")
+cf = count_files("CodeForces")
 total = leetcode + gfg + cf
 
 new_block = f"""<!-- AUTO-UPDATED BY GITHUB ACTIONS — DO NOT EDIT THIS SECTION MANUALLY -->
@@ -33,4 +33,4 @@ content = content[:start] + new_block + content[end:]
 with open("README.md", "w") as f:
     f.write(content)
 
-print(f"Updated: LC={leetcode}, GFG={gfg}, CF={cf}, Total={total}") 
+print(f"Updated: LC={leetcode}, GFG={gfg}, CF={cf}, Total={total}")

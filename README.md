@@ -19,8 +19,8 @@ Solving DSA problems daily on LeetCode, GeeksForGeeks, and Codeforces in C++.
 <!-- AUTO-UPDATED BY GITHUB ACTIONS — DO NOT EDIT THIS SECTION MANUALLY -->
 | Platform   | Problems Solved |
 |------------|-----------------|
-| LeetCode   | 0               |
+| LeetCode   | 1               |
 | GFG        | 0               |
 | Codeforces | 0               |
-| **Total**  | **0**           |
+| **Total**  | **1**           |
 <!-- END STATS -->
